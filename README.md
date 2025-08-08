@@ -4,7 +4,7 @@ A modern, responsive landing page for **Workit**, a fictional team collaboration
 
 ## Live Demo
 
-[View it on GitHub Pages](https://preeti1103.github.io/Landing-page/)
+[Demo](https://preeti1103.github.io/Landing-page/)
 
 ---
 
