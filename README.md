@@ -40,7 +40,3 @@ A modern, responsive landing page for **Workit**, a fictional team collaboration
 ---
 ## License
 This project is licensed under the MIT License.
-
-
-## 📁 Project Structure
-
